@@ -1,0 +1,75 @@
+<mxfile host="65bd71144e">
+    <diagram id="cE6Sk2Njb3zO7RPrYqIT" name="Page-1">
+        <mxGraphModel dx="880" dy="389" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="3" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fillColor=#FFFFFF;" parent="1" vertex="1">
+                    <mxGeometry x="40" y="40" width="590" height="640" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="&lt;font size=&quot;3&quot;&gt;Memory Lane&lt;span style=&quot;white-space: pre&quot;&gt;&#9;&lt;span style=&quot;white-space: pre&quot;&gt;&#9;&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;&#9;&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;&#9;&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;&#9;&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;&#9;&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;&#9;&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;&#9;&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;&#9;&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;&#9;&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;&#9;&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;&#9;&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;&#9;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#7A21FF;" parent="1" vertex="1">
+                    <mxGeometry x="40" y="40" width="590" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="&lt;font size=&quot;3&quot;&gt;New Memory Form&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;strokeColor=#FFFFFF;fillColor=#B0EAFF;shadow=0;" parent="1" vertex="1">
+                    <mxGeometry x="60" y="120" width="310" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="POST" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=12;strokeColor=#FFFFFF;fillColor=#B0EAFF;" parent="1" vertex="1">
+                    <mxGeometry x="380" y="150" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=12;strokeColor=#FFFFFF;fillColor=#455B63;" parent="1" vertex="1">
+                    <mxGeometry x="60" y="200" width="470" height="10" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="Memory" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=12;strokeColor=#FFFFFF;fillColor=#455B63;" parent="1" vertex="1">
+                    <mxGeometry x="60" y="230" width="170" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="Memory" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=12;strokeColor=#FFFFFF;fillColor=#455B63;" parent="1" vertex="1">
+                    <mxGeometry x="60" y="300" width="170" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="Memory" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=12;strokeColor=#FFFFFF;fillColor=#455B63;" parent="1" vertex="1">
+                    <mxGeometry x="60" y="370" width="170" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="&lt;font color=&quot;#030303&quot;&gt;App.js&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+                    <mxGeometry x="680" y="40" width="570" height="540" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="&lt;font color=&quot;#030303&quot;&gt;Header.js&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+                    <mxGeometry x="710" y="90" width="530" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="&lt;font color=&quot;#030303&quot;&gt;MemoryControl.js&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+                    <mxGeometry x="860" y="170" width="380" height="270" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="&lt;font color=&quot;#030303&quot;&gt;Signin.js&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+                    <mxGeometry x="710" y="170" width="140" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="21" value="&lt;font color=&quot;#030303&quot;&gt;MemoryDetail.js&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+                    <mxGeometry x="1020" y="230" width="200" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="23" value="&lt;font color=&quot;#030303&quot;&gt;MemoryList.js&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+                    <mxGeometry x="870" y="230" width="120" height="200" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" value="&lt;font color=&quot;#030303&quot;&gt;Memory.js&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+                    <mxGeometry x="895" y="260" width="70" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="24" value="&lt;font color=&quot;#030303&quot;&gt;Memory.js&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+                    <mxGeometry x="895" y="310" width="70" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="25" value="&lt;font color=&quot;#030303&quot;&gt;Memory.js&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+                    <mxGeometry x="895" y="360" width="70" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="26" value="&lt;font color=&quot;#030303&quot;&gt;NewMemoryForm.js&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+                    <mxGeometry x="1020" y="300" width="200" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="27" value="&lt;font color=&quot;#030303&quot;&gt;EditMemoryForm.js&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+                    <mxGeometry x="1020" y="370" width="200" height="60" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+    <diagram id="D-yEGdGyo-hjFpX5Mozt" name="Page-1">
+        <mxGraphModel dx="458" dy="386" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
