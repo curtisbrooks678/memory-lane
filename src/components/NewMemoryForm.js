@@ -9,7 +9,7 @@ function NewMemoryForm(props){
   function addMemoryToFireStore(event) {
     event.preventDefault();
     props.onNewMemoryCreation();
-    return firestore.collection('tickets').add(
+    return firestore.collection('memories').add(
       {
         title: event.target.title.value,
         description: event.target.description.value
